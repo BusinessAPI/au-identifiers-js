@@ -1,4 +1,4 @@
-# au-identifiers
+# Australian ABN, ACN and TFN Validation for JavaScript and TypeScript
 
 Validate and format Australian identifiers in JavaScript and TypeScript: ABN, ACN, ARBN, TFN, Director ID and VIN.
 
