@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.1 - 2026-11-24
+
+- README: npm version badge
+- Releases are published from GitHub Actions
+
 ## 1.0.0 - 2026-11-24
 
 First release.

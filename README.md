@@ -1,6 +1,6 @@
 # Australian ABN, ACN and TFN Validation for JavaScript and TypeScript
 
-[![tests](https://github.com/BusinessAPI/au-identifiers-js/actions/workflows/test.yml/badge.svg)](https://github.com/BusinessAPI/au-identifiers-js/actions/workflows/test.yml) [![MIT licence](https://img.shields.io/badge/licence-MIT-blue.svg)](LICENSE)
+[![tests](https://github.com/BusinessAPI/au-identifiers-js/actions/workflows/test.yml/badge.svg)](https://github.com/BusinessAPI/au-identifiers-js/actions/workflows/test.yml) [![npm](https://img.shields.io/npm/v/au-identifiers.svg)](https://www.npmjs.com/package/au-identifiers) [![MIT licence](https://img.shields.io/badge/licence-MIT-blue.svg)](LICENSE)
 
 Validate and format Australian identifiers in JavaScript and TypeScript: ABN, ACN, ARBN, TFN, Director ID and VIN.
 
